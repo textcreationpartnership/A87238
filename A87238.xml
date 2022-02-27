@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The desires and propositions of the Lord Inchequin in Ireland, to the Parliament of England assembled at Westminster; with his declaration concerning Charles, King of great Brittain, and his resolution to defend and maintain his royall crown and dignity, and to oppose and bring to subjection, the Popish party in Ireland, who have now declared for the King of Spaine. Also, a great fight, and the Lord Inchiquins taking of divers strong holds of the rebels. likewise, the proceedings of the Royalists at Bristol, and their declaring for God and King Charles.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87238</idno>
+            <idno type="STC">Wing I130</idno>
+            <idno type="STC">Thomason E441_2</idno>
+            <idno type="STC">ESTC R204879</idno>
+            <idno type="EEBO-CITATION">99864333</idno>
+            <idno type="PROQUEST">99864333</idno>
+            <idno type="VID">161662</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161662)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The desires and propositions of the Lord Inchequin in Ireland, to the Parliament of England assembled at Westminster; with his declaration concerning Charles, King of great Brittain, and his resolution to defend and maintain his royall crown and dignity, and to oppose and bring to subjection, the Popish party in Ireland, who have now declared for the King of Spaine. Also, a great fight, and the Lord Inchiquins taking of divers strong holds of the rebels. likewise, the proceedings of the Royalists at Bristol, and their declaring for God and King Charles.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May. 8th". Also at end, following: Imprimatur G.M.: "adman".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>Royalists --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161662:1" rendition="simple:additions"/>
+            <p>THE DESIRES AND PROPOSITIONS OF THE Lord Inchequin IN <hi>Jreland,</hi> to the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> Aſſembled at <hi>Weſtminster;</hi> with his Decla<g ref="char:EOLhyphen"/>ration concerning <hi>Charles, King of great Brittain,</hi> and his Reſolution to defend and maintain His Royall Crown and Dignity, and to oppoſe and bring to ſubjection, the Popiſh party in <hi>Ireland,</hi> who have now declared for the King of <hi>Spaine.</hi>
+            </p>
+            <p>ALSO, A great Fight, and the Lord INCHIQUINS taking of divers ſtrong Holds of the Rebels.</p>
+            <p>LIKEWISE, The proceedings of the Royaliſts at <hi>Briſtol,</hi> and their de<g ref="char:EOLhyphen"/>claring for God and King <hi>Charles.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. W.</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="letter">
+               <pb facs="tcp:161662:2"/>
+               <pb n="1" facs="tcp:161662:2"/>
+               <head>The DESIRES OF The Lord <hi>Jnchequin</hi> in <hi>Jreland,</hi> to the Parliament of ENGLAND; With a relation of the affaires and conditions of that Kingdome, as it was certified by Letters from <hi>Dublin.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg>Ll things here are ſtill in a diſtra<g ref="char:EOLhyphen"/>cted condition, and all ſorts of proviſions very ſcarce and hard to come by; Wee looke upon <hi>England,</hi> as a ſtorehouſe, or re<g ref="char:EOLhyphen"/>ſerve, on which we confide as the chiefeſt earthly meanes to keep and preſerve us from utter ruine and deſtructi<g ref="char:EOLhyphen"/>on; but the diſturbances which are noyſed to be in <hi>England,</hi> is a great diſcomfort to us, and a ſadneſſe to every well affected heart.</p>
+               <p>The Lord <hi>Jnchequin</hi> ſtill keepts compliance with the
+<pb n="3" facs="tcp:161662:3"/>Rebels, and the conditions made between them, are as yet on both parts kept unviolat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, the Rebels to ſhew that they confide in the Lord <hi>Incheqin,</hi> have de<g ref="char:EOLhyphen"/>livered and ſurrendred up into his Lordſhips hands, many of their holds and places of ſtrength, ſome of them being of conſequence.</p>
+               <p>Alſo, it is with confidence ſaid, that the Lord <hi>In<g ref="char:EOLhyphen"/>chequine</hi> deſires to make ſome overtures to the Par<g ref="char:EOLhyphen"/>liament of England, and to deſire the Parliament for moneys, and an ordinance of Indempnities</p>
+               <p>Alſo the Lord <hi>Inchequine</hi> pleads, that what he did was to act by that faction and partie of Catholikes in Ireland, which did acknowledge the King of Eng<g ref="char:EOLhyphen"/>lands right and title there, to deſtroy the other that are for the King of Spaines intereſt in that Kingdom; but whether the Rebels will begin, and fight with the King of Spaines party, it is not yet known, but what their intentions are, a little time will make ap<g ref="char:EOLhyphen"/>peare.</p>
+               <p>Here hath lately been a fight at Sea betweene ſome Waxford, Frigots, and certaine Barks which were laden with corne and proviſion, the Waxford Frigots after a ſhort encounter tooke five Barkes la<g ref="char:EOLhyphen"/>den as aforeſaid, and the Paſſengers are come to this C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty not any thing worth.</p>
+               <p>April the 18. a party of the Rebels attempted a ga<g ref="char:EOLhyphen"/>riſon of ours, named Kildare; and with eight ſca<g ref="char:EOLhyphen"/>ling Ladders, ſo large that 8. might goe up a breaſt, they aſcended the Walles halfe an houre afore day; Some got into the towne, but were preſently put to the Sword, the Rebels beaten off, and three or foure ſcore left dead in the place, beſides many others mor<g ref="char:EOLhyphen"/>tally
+<pb n="3" facs="tcp:161662:3"/>wounded, which got away; on our part, two Lieutenants and a Serjeant were ſlaine, and about twenty common Souldiers, and Captaine <hi>Diſon</hi> wounded, one of the Lieutenants, was Lieutenant <hi>Brewerton.</hi>
+               </p>
+               <p>We have yet great hopes, that if convenient ſup<g ref="char:EOLhyphen"/>ples come from England, much good may be done this Summer, againſt thoſe bloody Rebels; for if the Proteſtants party were but thorowly furniſhed with proviſions, and ſome aditionall Forces, where<g ref="char:EOLhyphen"/>by th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y might be able to ingage with the enemy, up<g ref="char:EOLhyphen"/>on all occaſions, or to keepe the Rebels cloſe within theſe places which they command, the famine would conſume them, all ſorts of livelyhood is ſo exceeding ſcarce amongſt them: Many of the beaſt which they have, dye ſo extreamly, with a Murraine which is amongſt them, that all ſorts of Cattell will be very ſcarce, many of ours dye alſo; Collonell <hi>Jones</hi> in<g ref="char:EOLhyphen"/>tends to improve his utmoſt ability againſt the Re<g ref="char:EOLhyphen"/>bels, and hopes to give the Parliament a good account of his proceedings this Summer.</p>
+               <closer>
+                  <signed>Dublin.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Copy of a letter from Briſtoll, relating the condition and ſtate of that City.</head>
+               <opener>
+                  <salute>Sir.</salute>
+               </opener>
+               <p>THe ſtate of the things is ſomething unſetled here as wel as in other places, which makes the Malig<g ref="char:EOLhyphen"/>nants bold to ſay &amp; do ſomethings which may prove cleerly prejuditiall to the Kingdome, if not timely prevented, Here are ſome royaliſts privately liſting with whom many take part, they declare there under<g ref="char:EOLhyphen"/>takeings to be for God and King <hi>Charles,</hi> the <hi>Auxille<g ref="char:EOLhyphen"/>ries</hi>
+                  <pb n="4" facs="tcp:161662:4"/>do not yet comply with them, nor take part a<g ref="char:EOLhyphen"/>gainſt them, alſo the Trained Bonds are not ſo care<g ref="char:EOLhyphen"/>full, s<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it were fitt they ſhould, to ſuppreſſe them, but let things as it were hang at hazard and ſuſpence; but if p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivate mettings and liſting<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Malignants be not ſuppreſt by ſome ſpeedy courſe, it may cauſe ſad ef<g ref="char:EOLhyphen"/>fects, both here and in other parts of the Kingdom, and then thoſe negligent people, when they feele the ſmart, will wiſh they had prevented thoſe Meſſengers which they may then ſuffer, if they wil wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fully neg<g ref="char:EOLhyphen"/>lect the prevention thereof, having opportunity and power ſo to do,</p>
+               <closer>
+                  <dateline>
+                     <hi>Briſtoll,</hi> 
+                     <date>
+                        <hi>April</hi> 19. 1648.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>It is reported that <hi>Poyer</hi> is beaten, and 16. of his Colours, with many priſoners taken.</p>
+               </postscript>
+            </div>
+            <div type="text">
+               <head>A letter containing a perfect Relation of the condition and ſtate of things in <hi>South-wales,</hi> with the Declara<g ref="char:EOLhyphen"/>tion of the Earl of <hi>Ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>berie,</hi> Sir <hi>Richard Price,</hi> and others againſt Poyer, who have deſerted him, although formerly of the Kings Army, and how the <hi>Welch</hi> Smiths have cut down their Bellowes, and many left their Habitations upon advance of the <hi>Parliaments</hi> Forces.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe Malignants from many places do yet come in unto <hi>Poyer,</hi> &amp; uſe their indeavours to ſtrengthen him, and what they can they perſwade the Welch to aſſiſt them, and to that end, many lyes and fiction, are ſcattered and ſpread abroad, the better to animate and incourage the ſimple miſled <hi>Welch,</hi> to joyne with them, as that the City of <hi>London</hi> hath declared againſt the Parliament, and that the Armies are divided, and ready to ingage the one againſt the other, with many
+<pb n="5" facs="tcp:161662:4"/>to this purpoſe; but it is hoped that their aſſiſtance wil not be nothing ſo great as they expect, for the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of <hi>Carbery</hi> who hath once been ingaged againſt the Parl. and formerly a Commander in the Kings Army <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s al<g ref="char:EOLhyphen"/>ſo Sir <hi>Richard Price</hi> &amp; others, have withdr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn them<g ref="char:EOLhyphen"/>ſelves out of their ſociety, and alſo out of that Coun<g ref="char:EOLhyphen"/>trey, which may happily by their example move others to do the like.</p>
+               <p>The Earl of <hi>Carbery</hi> and others, have likewiſe de<g ref="char:EOLhyphen"/>clared, their d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſlikes of their undertakings, and would not have that there ſhould be ſo much as any ſuſpition, that they will either joy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e with them, or aſ<g ref="char:EOLhyphen"/>ſociate with them, for they do declare and ingag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their honour, that they will neither joyne with them nor aſſiſt them, neither ſhall any of their f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds as farre forth as they can perſwade or hinder them; but on the contrarie, they will ingage with, and aſſiſt the Armie againſt them. His Lordſhip hath alſo volun<g ref="char:EOLhyphen"/>tarily explained many other tokens of love and good affection to the Parl. and Army.</p>
+               <p>Yet, the mores the pitty, ſome of thoſe parts are u<g ref="char:EOLhyphen"/>niverſally bent to oppoſe the Parl. and Army, what forc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſoever comes, as appeares by this, for as the Parl. forces march forward, they make away, and car<g ref="char:EOLhyphen"/>ry away with them their wives, their Children, and drive away their Cattell, with what good<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they have, or can get together, and are fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d into he Woods, and into the Mountains, lea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing their houſes emp<g ref="char:EOLhyphen"/>ty, many of their Smiths are alſo gone, they them<g ref="char:EOLhyphen"/>ſelv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s having cut <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>own their Bellowes before they went; for they being a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efull miſchievous people, have in many places ſpoiled and carried away what
+<pb n="6" facs="tcp:161662:5" rendition="simple:additions"/>they conceive may be of uſe to the Parl. Forces, and in ſome places there is neither a Horſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhooe to bee bad, nor a place to make it if one would give 40 s. to have an Horſe ſhod. Therefore ſome extraordi<g ref="char:EOLhyphen"/>nary and unuſuall courſe muſt bee taken to end this trouble, and bring downe the ſtomacks of theſe litle leſſe then barbarous people.</p>
+               <p>It is ſuppoſed and reported that Ma. Gen. <hi>Laug<g ref="char:EOLhyphen"/>horne</hi> is come in unto <hi>Poyer,</hi> but whether it were he or not, we cannot tell, but the Welch l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tly ſhot off all their Guns, to welcome ſome perſon of quality. The Welſh care not for fighting, but upon paſſage, and ſcarce then nei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her, except they have a good opportu<g ref="char:EOLhyphen"/>nity, for the Welſh hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alwaies been obſerved to be cowards, and ſeldome act but upon advantage. Colo<g ref="char:EOLhyphen"/>nel Horton hath taken fifty of the Welſh Souldiers priſoners, whereof ten are Gentlemen, and were ta<g ref="char:EOLhyphen"/>ken fortifying a houſe at Broſhock, for whoſe ex<g ref="char:EOLhyphen"/>change, a Drummer hath been ſent into <hi>Wales</hi> unto <hi>Poyer.</hi>
+               </p>
+               <p>This preſent Munday, being the 8. of this inſtant <hi>May,</hi> it was commonly rumored up and downe the Towne, that there hath beene another late fight in Wales, betwixt the Forces commanded by Colonel <hi>Horton,</hi> and the Forces commanded by Colonel <hi>Rice <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>owell,</hi> and that Colonell Horton hath obtai<g ref="char:EOLhyphen"/>ned a great Victory, taken 16. Colours and divers priſoners; The truth whereof, few daies will make manifeſt.</p>
+            </div>
+            <div type="imprimatur">
+               <p>
+                  <hi>Imprimatur,</hi>
+               </p>
+               <p>G. M.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
